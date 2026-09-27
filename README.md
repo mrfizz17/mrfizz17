@@ -32,6 +32,8 @@ Tech: Next.js · TypeScript · React · Tailwind CSS · REST API
 
 🔗  [FitLog project Live Demo ](https://fit-log-project-three.vercel.app/)
 
+
+
 # 🧩 Explore the Technologies
 
 An interactive technology-stack application where users can explore technologies across different categories and build their ideal development stack.
@@ -42,13 +44,6 @@ Tech: React · JavaScript · Tailwind CSS · DaisyUI
 
 
 
-## **💻 Currently**
--Building full-stack web applications
--Deepening Next.js & TypeScript
--Improving backend & database skills
--Practicing Data Structures & Algorithms
--Learning software architecture & system design
--Exploring AI-powered applications
 
 
 ## 📊 GitHub Stats & Trophies
