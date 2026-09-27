@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafizur Rahman Chowdhury</h1>
 <h2 align="center">Aspiring Software Engineer</h2>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=mrfizz17">
-    <img src="https://komarev.com/ghpvc/?username=mrfizz17&label=Profile%20views&color=00FFFF&style=flat-square" alt="mrfizz17's profile views" />
-  </a>
-</p>
+
 
 <img src="./banner.jpeg" alt="Banner" width="100%" />
 
@@ -121,7 +117,12 @@ Tech: React · JavaScript · Tailwind CSS · DaisyUI
 </p>
 
 ## 💬 Quote
-> Always open to feedback, code reviews, and technical discussions.
+> The moon never rushes to become full, yet every night it reminds us that becoming takes time.
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=mrfizz17">
+    <img src="https://komarev.com/ghpvc/?username=mrfizz17&label=Profile%20views&color=00FFFF&style=flat-square" alt="mrfizz17's profile views" />
+  </a>
+</p>
 
 
