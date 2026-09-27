@@ -9,7 +9,7 @@
 
 <img src="./banner.jpeg" alt="Banner" width="100%" />
 
-##👨‍💻 About Me
+## 👨‍💻 About Me
 
 I'm a Computer Science student focused on full-stack web development. I enjoy building practical applications, solving programming problems, and learning how modern software systems are designed and built.
 
@@ -23,21 +23,22 @@ Currently, I'm strengthening my skills in React, Next.js, TypeScript, Node.js, E
 🎯 Long-term goal: Full-Stack Engineer → AI-powered application development
 
 ##🚀 Featured Projects
-🏋️ FitLog — Fitness & Workout Platform
+
+#🏋️ FitLog — Fitness & Workout Platform
 
 A modern fitness application for discovering exercises and managing personal workout plans.
 
 Tech: Next.js · TypeScript · React · Tailwind CSS · REST API
 
-🔗Live Demo : <a href="https://fit-log-project-three.vercel.app/"></a>
+🔗[Live Demo](https://fit-log-project-three.vercel.app/)
 
-🧩 Explore the Technologies
+#🧩 Explore the Technologies
 
 An interactive technology-stack application where users can explore technologies across different categories and build their ideal development stack.
 
 Tech: React · JavaScript · Tailwind CSS · DaisyUI
 
-🔗 Live Demo : <a href="(https://techstack-project-mustafiz.netlify.app/)"></a>
+🔗 [Live Demo](https://techstack-project-mustafiz.netlify.app/)
 
 
 
