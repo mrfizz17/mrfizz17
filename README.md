@@ -9,19 +9,45 @@
 
 <img src="./banner.jpeg" alt="Banner" width="100%" />
 
-## 📌 About Me
-- Building things I’m curious about
-- CS student exploring Full-Stack Development, Next.js & AI.
-- Learning by building, breaking, and figuring things out.
+##👨‍💻 About Me
+
+I'm a Computer Science student focused on full-stack web development. I enjoy building practical applications, solving programming problems, and learning how modern software systems are designed and built.
+
+Currently, I'm strengthening my skills in React, Next.js, TypeScript, Node.js, Express.js, and databases, while exploring better software architecture and AI-powered applications.
+
+🎓 Computer Science Student
+💻 Focused on Full-Stack Development
+🌱 Currently learning Next.js, TypeScript & Backend Development
+🧩 Practicing Data Structures & Algorithms
+🚀 Building and deploying real-world projects
+🎯 Long-term goal: Full-Stack Engineer → AI-powered application development
+
+##🚀 Featured Projects
+🏋️ FitLog — Fitness & Workout Platform
+
+A modern fitness application for discovering exercises and managing personal workout plans.
+
+Tech: Next.js · TypeScript · React · Tailwind CSS · REST API
+
+🔗Live Demo : <a href="https://fit-log-project-three.vercel.app/"></a>
+
+🧩 Explore the Technologies
+
+An interactive technology-stack application where users can explore technologies across different categories and build their ideal development stack.
+
+Tech: React · JavaScript · Tailwind CSS · DaisyUI
+
+🔗 Live Demo : <a href="(https://techstack-project-mustafiz.netlify.app/)"></a>
 
 
-## 🧠 My Focus Areas
-* 🌐 Full-Stack Web Development
-* ⚛️ React & Next.js
-* 🟢 Node.js, Express & MongoDB
-* 🧩 Building real-world projects
-* 🤖 Exploring AI-powered applications & automation
-* 📚 Strengthening DSA, problem solving & software engineering fundamentals
+
+💻 Currently
+→ Building full-stack web applications
+→ Deepening Next.js & TypeScript
+→ Improving backend & database skills
+→ Practicing Data Structures & Algorithms
+→ Learning software architecture & system design
+→ Exploring AI-powered applications
 
 
 ## 📊 GitHub Stats & Trophies
