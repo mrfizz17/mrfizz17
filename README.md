@@ -22,27 +22,27 @@ Currently, I'm strengthening my skills in React, Next.js, TypeScript, Node.js, E
 🚀 Building and deploying real-world projects
 🎯 Long-term goal: Full-Stack Engineer → AI-powered application development
 
-##🚀 Featured Projects
+## 🚀 Featured Projects
 
-#🏋️ FitLog — Fitness & Workout Platform
+# 🏋️ FitLog — Fitness & Workout Platform
 
 A modern fitness application for discovering exercises and managing personal workout plans.
 
 Tech: Next.js · TypeScript · React · Tailwind CSS · REST API
 
-🔗[Live Demo](https://fit-log-project-three.vercel.app/)
+🔗  [FitLog project Live Demo ](https://fit-log-project-three.vercel.app/)
 
-#🧩 Explore the Technologies
+# 🧩 Explore the Technologies
 
 An interactive technology-stack application where users can explore technologies across different categories and build their ideal development stack.
 
 Tech: React · JavaScript · Tailwind CSS · DaisyUI
 
-🔗 [Live Demo](https://techstack-project-mustafiz.netlify.app/)
+🔗  [Explore the technologies Live demo ](https://techstack-project-mustafiz.netlify.app/)
 
 
 
-💻 Currently
+## 💻 Currently
 → Building full-stack web applications
 → Deepening Next.js & TypeScript
 → Improving backend & database skills
