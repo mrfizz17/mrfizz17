@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mustafizur Rahman</h1>
-<h3 align="center">Junior Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Mustafizur Rahman Chowdhury</h1>
+<h2 align="center">Aspiring Software Engineer</h2>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=mrfizz17">
@@ -9,7 +9,7 @@
 
 <img src="./banner.jpeg" alt="Banner" width="100%" />
 
-## 👨‍💻 About Me
+## **👨‍💻 About Me**
 
 I'm a Computer Science student focused on full-stack web development. I enjoy building practical applications, solving programming problems, and learning how modern software systems are designed and built.
 
@@ -22,7 +22,7 @@ Currently, I'm strengthening my skills in React, Next.js, TypeScript, Node.js, E
 🚀 Building and deploying real-world projects
 🎯 Long-term goal: Full-Stack Engineer → AI-powered application development
 
-## 🚀 Featured Projects
+## **🚀 Featured Projects**
 
 # 🏋️ FitLog — Fitness & Workout Platform
 
@@ -42,13 +42,13 @@ Tech: React · JavaScript · Tailwind CSS · DaisyUI
 
 
 
-## 💻 Currently
-→ Building full-stack web applications
-→ Deepening Next.js & TypeScript
-→ Improving backend & database skills
-→ Practicing Data Structures & Algorithms
-→ Learning software architecture & system design
-→ Exploring AI-powered applications
+## **💻 Currently**
+-Building full-stack web applications
+-Deepening Next.js & TypeScript
+-Improving backend & database skills
+-Practicing Data Structures & Algorithms
+-Learning software architecture & system design
+-Exploring AI-powered applications
 
 
 ## 📊 GitHub Stats & Trophies
